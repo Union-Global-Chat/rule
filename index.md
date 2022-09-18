@@ -65,4 +65,4 @@ Unionグローバルチャットは、連携しているボットのメッセー
 Unionグローバルチャットサーバーを介して、  
 皆さんの元に送信しています。
 
-![Unionグローバルチャットの仕組み by Renorari](assets/whats_gchat.png "Unionグローバルチャットの仕組み by Renorari")
+![グローバルチャットの仕組み](assets/whats_gchat_v3.gif "グローバルチャットの仕組み")
